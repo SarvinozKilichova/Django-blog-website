@@ -1,0 +1,1 @@
+# django blog web site
